@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HnSTask1Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-14T21:32:34" hostname="DESKTOP-DTQF8LN" time="0.494">
+  <properties/>
+  <testcase name="testSolution()" classname="HnSTask1Tests" time="0.483"/>
+  <testcase name="testSolution2()" classname="HnSTask1Tests" time="0.01"/>
+  <system-out><![CDATA[23:32:34.483 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+23:32:34.487 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: HnSTask1Tests$$Lambda$342/0x000000010021f008@6bbe2511
+23:32:34.780 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+23:32:34.877 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: HnSTask1Tests$$Lambda$386/0x00000001002a8b50@7c56e013
+23:32:34.884 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
